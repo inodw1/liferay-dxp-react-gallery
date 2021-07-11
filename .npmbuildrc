@@ -1,0 +1,11 @@
+{
+	"liferayDir": "/home/inod/Desktop/OS Labs/Liferay DXP/liferay-dxp-7.3.10-ga1",
+	"webpack": {
+		"rules": [
+			{
+				"test": "src\\/.*\\.js$",
+				"use": "babel-loader"
+			}
+		]
+	}
+}
